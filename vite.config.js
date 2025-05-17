@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/pokedex-vue/',
+  base: '/Pokedex/',
   plugins: [vue()],
   resolve: {
     alias: {
