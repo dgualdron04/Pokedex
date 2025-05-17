@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Loader-wv7RcUeR.js","assets/index-DUvJQL-g.js","assets/index-CZw1dxt4.css"])))=>i.map(i=>d[i]);
+import{_ as o,d as a,r as t,c as n,o as s,a as r,b as c}from"./index-DUvJQL-g.js";const d={name:"Loader",components:{LoaderSVG:a(()=>c(()=>import("./Loader-wv7RcUeR.js"),__vite__mapDeps([0,1,2])))}},_={class:"loader-container"};function p(i,l,m,f,L,u){const e=t("LoaderSVG");return s(),n("div",_,[r(e,{alt:"Loading",class:"loader"})])}const V=o(d,[["render",p],["__scopeId","data-v-d58f2ed7"]]);export{V as default};
